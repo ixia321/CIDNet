@@ -1,7 +1,6 @@
 # CIDNet: Collaborative Uncertainty-Aware Learning of Invariance and Discrimination for Cross-View Geo-Localization
 
-[![Publication](https://img.shields.io/badge/Pattern%20Recognition-2026-blue)](https://www.sciencedirect.com/journal/pattern-recognition)
-
+[![Paper](https://img.shields.io/badge/Paper-Pattern%20Recognition-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0031320326021230)
 **Official implementation** of the paper **"CIDNet: Collaborative Uncertainty-Aware Learning of Invariance and Discrimination for Cross-View Geo-Localization"**, published in **Pattern Recognition (2026)**.
 
 **Authors:** Jianghua Li, Yixin He, Yabo Hui, Tengyu Liu, and Xiaofeng Wang.
